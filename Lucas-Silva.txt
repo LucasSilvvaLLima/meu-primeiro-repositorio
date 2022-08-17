@@ -1,2 +1,3 @@
 Oie eu sou o Lucas Silva Lima e estou cursando Analise e Desenvolvimento de Sistemas na São Paulo Tech School e estou no meu 1° Semestre.
-<br> Hoje é dia 17 de Agosto de 2022 e eu estou estudando git e git hub as 20:22
+	Hoje é dia 17 de Agosto de 2022 e eu estou estudando git e git hub as 20:22
+		Assinado Lucas Silva.
